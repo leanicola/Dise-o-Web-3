@@ -33,3 +33,14 @@ a{
 a:hover{
     text-decoration: none   ;
 }
+
+#btn-clases{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#btn-clases a{
+    margin-top: 10px;
+
+}
