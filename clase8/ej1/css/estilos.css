@@ -1,0 +1,25 @@
+/* ⚠️ No tocar, el ejercicio debe ser resuelto utilizando clases de Bootstrap solamente ⚠️ */
+
+h1 {
+    font-family: "DynaPuff", Arial, Helvetica, sans-serif;
+    color: #f1b94f;
+}
+
+img {
+    max-width: 100%;
+}
+
+.foto-limonada {
+    aspect-ratio: 21 / 9;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 55%;
+    border-radius: 24px;
+    margin-bottom: 1.5rem;
+}
+
+article {
+    background-color: whitesmoke;
+    padding: 1rem;
+    border-radius: 1rem;
+}

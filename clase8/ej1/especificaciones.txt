@@ -1,0 +1,26 @@
+-- No modificar archivo CSS --
+
+Agregar contenedores div y clases de bootstrap para generar la estructura mostrada en las dos muestras
+Documentación: https://getbootstrap.com/docs/5.3/layout/grid/
+
+>> BASE / MOBILE
+
+-- Elaboración / Ingredientes --
+Los elementos dentro de la grilla ocupan 12 columnas
+
+-- Relacionados --
+Los elementos dentro de la grilla ocupan 12 columnas
+
+>> MD en adelante
+
+-- Elaboración / Ingredientes --
+Parte de elaboración ocupa 8 columnas
+Parte de ingredientes ocupa 4 columnas
+
+-- Relacionados --
+Los elementos ocupan 4 columnas cada uno
+
+>> Clases a utilizar
+
+row
+col-*
